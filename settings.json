@@ -1,0 +1,12 @@
+{
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "firefox developer edition",
+    "open-in-browser.default": "Safari",
+    "editor.accessibilitySupport": "off",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "vscode_vibrancy.opacity": -1,
+    "window.titleBarStyle": "custom",
+    "vscode_vibrancy.refreshInterval": 100,
+    "workbench.colorTheme": "Diacronia Theme",
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false
+}
